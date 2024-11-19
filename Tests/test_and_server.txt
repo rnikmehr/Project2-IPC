@@ -1,0 +1,7 @@
+SERVER STARTED
+	MAX CLIENTS: 7
+CLIENT CONNECTED
+	PATH: "dat/bankloan2.csv"
+	OPERATION: AND
+	SEEKING: indus, farm, default
+BYTES SENT: 370

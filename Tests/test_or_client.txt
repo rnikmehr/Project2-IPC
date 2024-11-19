@@ -1,0 +1,9 @@
+SERVER CONNECTION ACCEPTED
+1	 5,  150800,  35800,  4.21,  39,  professional, apartment,  stb,  default
+2	11,  161500,  53300,  3.03,  28,  professional, apartment,  stb,  repay
+3	12,  157400,  63900,  2.46,  30,  professional, farm,       stb,  repay
+4	14,  209700,  53000,  3.96,  39,  industrial,   farm,       ftb,  default
+5	20,  284100,  32300,  8.80,  51,  industrial,   farm,       ftb,  default
+6	22,  112800,  79700,  1.42,  41,  professional, house,      ftb,  repay
+7	24,  175200,  39900,  4.39,  37,  professional, apartment,  stb,  default
+BYTES RECEIVED 512
